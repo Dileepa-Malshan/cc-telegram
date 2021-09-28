@@ -1,7 +1,7 @@
 debug = False
-token = '123456:AABCDEAABCDEABCDE1234ABCDE'
-name = 'shitsubot'
-owner = 'username'
+token = '2023532157:AAFM0DjNCARuSeKJmqExYC_feg4A8fRujfw'
+name = 'CC_CHECKER_BOT'
+owner = 'Dileepa_Malshan'
 
 # Enable permanent redis store, otherwise temporary in-memory store will be used
 #redis_host =
